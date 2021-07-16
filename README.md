@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering at Symbiosis Institute of Technology, Pune , India.
-- 🌱 &nbsp; Currently Learning Blockchain Technology.
+- 🌱 &nbsp; Currently Learning Machine Learning and data science.
 - Open for project collaboration and internship opportunities. 
 
 <h3>🛠 Tech Stack</h3>
