@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/arshradhanpura/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:arshradhanpura288@gmail.com) 💌
- - visit my [website](https://arsh-portfolio-dark.herokuapp.com/)
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/Arsh028)
  
  
