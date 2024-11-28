@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering at Symbiosis Institute of Technology, Pune , India.
-- 🌱 &nbsp; Currently Learning Machine Learning and data science.
-- Open for project collaboration and internship opportunities. 
+- 🤔 &nbsp; Software Development Engineer @Bajaj Finserv Health | Backend Developer | Node | Typescript | Express | NestJS | Mongodb | ElasticSearch | Docker | Kubernetes
+- Open for project collaboration
 
 <h3>🛠 Tech Stack</h3>
 
