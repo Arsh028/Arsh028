@@ -19,14 +19,6 @@ Here are some ideas to get you started:
 - &nbsp; Software Development Engineer @Bajaj Finserv Health | Backend Developer | Node | Typescript | Express | NestJS | Mongodb | ElasticSearch | Docker | Kubernetes
 - Open for project collaboration
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Java | Javascript | Python | C++ | C# | R (Statistics)
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
-- 🎮 &nbsp; Unity
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Postman API | Adobe XD | Android Studio
-
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Arsh028&show_icons=true)
 
